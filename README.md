@@ -23,3 +23,22 @@ A lightweight plugin that displays the description of the current category, tag,
 
 Add the shortcode anywhere on your taxonomy archive page:
 
+
+This will display the description of the currently viewed category, tag, or custom taxonomy term.
+
+## Installation
+
+1. Upload the plugin folder to `/wp-content/plugins/` or install via the Plugins menu in WordPress.
+2. Activate the plugin.
+3. Use the `[taxonomy_description]` shortcode on any taxonomy archive template.
+
+## Compatibility
+
+- ✅ Categories
+- ✅ Tags
+- ✅ Custom taxonomies
+- ✅ Divi, Elementor, Gutenberg, and most page builders
+
+## License
+
+This plugin is licensed under the GPLv2 or later.
